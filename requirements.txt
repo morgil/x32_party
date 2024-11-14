@@ -1,1 +1,1 @@
-behringer_mixer @ git+https://github.com/morgil/behringer-mixer.git@a05f6058a43378bb736b743f47b91ed2cb4af153
+behringer_mixer @ git+https://github.com/morgil/behringer-mixer.git@e2b12f98e6f73c887bbd0a478ec753d829ac0e51
