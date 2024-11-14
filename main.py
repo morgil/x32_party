@@ -29,6 +29,7 @@ async def main():
     mixer = mixer_api.create(
         "X32",
         ip=args.address,
+        delay=0.01,
         #  logLevel=logging.DEBUG,
     )
 

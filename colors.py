@@ -18,6 +18,12 @@ class Gradient:
 
 rainbow = Gradient(
     colors=["RD", "YE", "GN", "CY", "BL", "MG"],
+    channel_offset=-1,
+    delay=0.1,
+)
+
+reverse_rainbow = Gradient(
+    colors=["RD", "YE", "GN", "CY", "BL", "MG"],
     channel_offset=1,
     delay=0.1,
 )
